@@ -1,0 +1,14 @@
+# This is a test file
+# UCT C = UCT_C_VALUE
+Disallow Resign
+UCT C = 0.7
+Rave K = 1
+Rave M = 50
+UCT Expand Threshold = 30
+Playout Limit = 5000
+Standard Feature Weight File = save_result/stochastic_results/for_nohandicap/full_features_nohandicap_inv0.1_regconst0.0000001_r10_iter100
+Player Kind = Softmax UCT Standard Features Dynamic Update
+Dynamic Update Policy Alpha = 0.000000001
+Dynamic Update Policy Lambda = 0.000000001
+Opening Book = book/book.book
+

@@ -1,0 +1,4 @@
+go_param timelimit 0.2
+go_param use_book 0
+uct_param_search number_threads 1
+uct_param_search rave 0

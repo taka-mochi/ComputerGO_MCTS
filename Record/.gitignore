@@ -1,0 +1,4 @@
+*.o
+pat_ext
+pat_ext_output_20*
+pat_for_test/

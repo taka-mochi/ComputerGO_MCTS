@@ -1,0 +1,2 @@
+fuego --config for_fuego_parameter_file/usebook_fuego_commands
+gnugo --chinese-rule --mode gtp --level 10

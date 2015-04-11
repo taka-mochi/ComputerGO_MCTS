@@ -1,0 +1,8 @@
+uct_param_search number_threads 1
+uct_param_search virtual_loss 0
+uct_param_player max_number_games 10000
+uct_param_player early_pass 0
+uct_param_player ignore_clock 1
+uct_param_search bias_term_constant 0.3
+uct_param_search expand_threshold 3
+go_param timelimit 30

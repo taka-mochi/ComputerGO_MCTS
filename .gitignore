@@ -1,0 +1,7 @@
+*~
+*.o
+*.tar.gz
+latex2e
+*.zip
+*.class
+libgsl.so.*

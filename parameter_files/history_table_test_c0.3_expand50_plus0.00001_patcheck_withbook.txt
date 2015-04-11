@@ -1,0 +1,13 @@
+# This is a test file
+# UCT C = UCT_C_VALUE
+#Disallow Resign
+UCT C = 0.3
+Rave K = 1
+Rave M = 50
+UCT Expand Threshold = 50
+Playout Limit = 10000
+Standard Feature Weight File = save_result/stochastic_results/for_all_data/stochastic_result_alldata_inv0.1_r10_iter30
+Player Kind = History Heuristic
+Opening Book = book/book.book
+History Histogram Plus Value = 0.00001
+Check Pattern on History Playout
