@@ -8,18 +8,16 @@ The computer GO framework and the AI using MCTS (Monte Carlo Tree Search)
 ## Description
 Source code that the author uses for master thesis.
 
-* A framework that runs computer GO between AI & humans, or AI & AI.
-* Computer players using Monte-Carlo Tree Search (MCTS).
-** These AI can battle with other computer players via GTP commands.
-* Machine learning frameworks to enforce the computer players.
-** Using the past GO records.
+* A framework that runs computer GO between AI &amp; humans, or AI &amp; AI.
+* Computer players using Monte-Carlo Tree Search (MCTS). These AI can battle with other computer players via GTP commands.
+* Machine learning frameworks using pat GO records to enforce the computer players.
 
 ## Requirements
 You can run main computer GO framework only on Linux OS because some API (especially pthread) depends on Linux API.
 
 ## Usage
-Build: run "make" in root directory (read Makefile for other make options).
-RUn: read go_main_release_dynamic_runner.h or go_main_release_vs_gnugo_runner.h. These scripts run a computer player vs another computer player.
+* Build: run "make" in root directory (read Makefile for other make options).
+* Run: read go_main_release_dynamic_runner.h or go_main_release_vs_gnugo_runner.h. These scripts run a computer player vs another computer player.
 
 ## Directories
 
