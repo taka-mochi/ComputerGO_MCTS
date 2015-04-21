@@ -40,7 +40,7 @@ Other files
 * save_results: Result files of battle between AI, machine learning and so on... 
 
 ## License
-This software is released under the MIT License, see LICENSE.txt.
+Except for external libraries and resources, this software is released under the MIT License, see LICENSE.txt.
 
 ## Author
 omochi (@omochi64): [https://github.com/omochi64]
