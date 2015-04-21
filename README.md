@@ -39,5 +39,8 @@ Other files
 * parameter_files: Parameter files to run author's AI.
 * save_results: Result files of battle between AI, machine learning and so on... 
 
+## License
+This software is released under the MIT License, see LICENSE.txt.
+
 ## Author
-omochi: [https://github.com/omochi64]
+omochi (@omochi64): [https://github.com/omochi64]
